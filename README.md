@@ -15,15 +15,17 @@
 </p>
 
 <h1 align="center">Software Engineering Student @ SUST</h1>
-
+<p align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">     
+<a href="https://github.com/AMIT-BANIK">
 
 
 ## 🔭 What I'm Doing
 
-- 🚀 Learning *Full Stack Web Development*
-- 🔧 Practicing *C++, Java, JavaScript*
-- 🎯 Exploring *React, Node.js, Django*
-- 📚 Studying SWE at *Shahjalal University of Science & Technology (SUST)*
+-  Learning *Full Stack Web Development*
+-  Practicing *C++, Java, JavaScript*
+-  Exploring *React, Node.js, Django*
+-  Studying SWE at *Shahjalal University of Science & Technology (SUST)*
 
 
 
@@ -61,11 +63,11 @@
 
 ## 🎓 Education
 
-- 🎓 *BSc in Software Engineering*  
+-  *BSc in Software Engineering*  
   Shahjalal University of Science & Technology (SUST)
   
- - 🏫  *Higher Secondary School Certificate (HSC)*  
-  Shahjalal University of Science & Technology (SUST)  
+- *Higher Secondary School Certificate (HSC)*  
+  Shaheed Police Smrity College (SPSC)
   
 
 ## 📞 Connect with me
@@ -83,7 +85,8 @@
   </a>
 </p>
 
-## 📊 <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>GitHub Analytics
+## 📊<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git" style="vertical-align: middle;"/> GitHub Analytics
+
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">     
