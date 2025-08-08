@@ -1,6 +1,6 @@
 <!-- Hero -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Amit+Banik+,+a+Software+Engineering+Student;and+Competitive+Programmer.;I'm+currently+sharpening+my+skills+in+Software+Development;aspiring+to+become+a+Professional+Software+Developer.">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Amit+Banik+,+a+Software+Engineering+Student">
 </p>
 <p align="center">
   <a href="https://github.com/AMIT-BANIK">
@@ -14,18 +14,20 @@
   </a>
 </p>
 
-<h1 align="center">Software Engineering Student @ SUST</h1>
+<h2 align="center">Exploring Ideas, Embracing Growth | Forever a Learner</h2>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">     
 <a href="https://github.com/AMIT-BANIK">
 
 
 ## 🔭 What I'm Doing
-
+- Currently working on **Cafeteria**
 -  Learning *Full Stack Web Development*
 -  Practicing *C++, Java, JavaScript*
 -  Exploring *React, Node.js, Django*
+-  All of my projects are available at [https://github.com/AMIT_BANIK?tab=repositories](https://github.com/AMIT-BANIK?tab=repositories)
 -  Studying SWE at *Shahjalal University of Science & Technology (SUST)*
+-   📫 How to reach me **banikamit348@gmail.com**
 
 
 
@@ -96,7 +98,8 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AMIT-BANIK&layout=compact&langs_count=8&theme=algolia"/>
   
   <img alt="Mark streak" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AMIT-BANIK&layout=compact&langs_count=8&theme=algolia" /> 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">    
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
+
 </a>
 </p>
 
