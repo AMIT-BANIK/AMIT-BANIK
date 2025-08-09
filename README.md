@@ -104,3 +104,7 @@
  <img alt="Mark streak" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AMIT-BANIK&layout=compact&langs_count=8&theme=algolia" /> 
 </div>
 
+<p align="center">
+    <img src="https://github.com/AMIT-BANIK/AMIT-BANIK/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
+</p> 
+
